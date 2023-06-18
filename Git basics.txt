@@ -1,0 +1,10 @@
+Q.1) What is Git ?
+ans>Git is distributed version control system that allows multiple developers to collaborate on a project efficiently. It was created by Linus Torvalds. Git is widely used in Software development for tracking changes co-ordinating work with the team members.  
+
+
+Q.2) Features of git?
+ans> i)Version Control=> Git track changes to file and directories in a project. Creating a history of all modifications.
+ii) Distibuted system
+iii) Branching & Merging=>Git allows you to create branches which are independent lines of development.This is useful for isolating new features.
+iv) Remote repositories
+v) GitHub and other hosting platforms=> GitHub is popular web based hosting service for Git repositories.
